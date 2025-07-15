@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="left"><strong><samp>「</samp></strong></div>
 
-<!--
-**saragarzou/saragarzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <samp>
+    <em>Undergrad @ Radboud</em><br>
+    ai &#8226; cybersec &#8226; math<br>
+    <br>
+    ₍^. .^₎⟆<br>
+    <br>
+    <em>contact me:</em><br>
+    firstname [dot] lastname [at] ru [dot] nl
+  </samp>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>my most used languages</sub><br>
+  <a href="https://github.com/saragarzou">
+    <img src="https://github-readme-stat-ten-nu.vercel.app/api/top-langs/?username=saragarzou&layout=compact&hide=Jupyter%20Notebook,HTML,CSS&bg_color=00000000&hide_border=true&disable_animations=True&hide_title=True&langs_count=7" alt="Top Langs" width="230" />
+  </a>
+</div>
+
+<div align="right"><strong><samp>」</samp></strong></div>
+
+<!-- reference: kizu (janleigh) -->
