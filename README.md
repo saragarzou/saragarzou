@@ -2,8 +2,8 @@
 
 <div align="center">
   <samp>
-    <em>Undergrad @ Radboud</em><br>
-    ai &#8226; cybersec &#8226; math<br>
+    <em>Undergrad @ Radboud University</em><br>
+    ai & cybersec<br>
     <br>
     <em>contact me:</em><br>
     firstname [dot] lastname [at] ru [dot] nl
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <sub>my used languages</sub><br>
+  <sub>my used languages:</sub><br>
   <a href="https://github.com/saragarzou">
     <img src="https://github-readme-stats-psi-nine-90.vercel.app/api/top-langs/?username=saragarzou&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,Makefile,Cmake&bg_color=00000000&hide_border=true&disable_animations=True&hide_title=True&langs_count=8" alt="Top Langs" width="230" />
   </a>
