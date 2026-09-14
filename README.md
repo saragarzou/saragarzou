@@ -4,9 +4,6 @@
   <samp>
     <em>Undergrad @ Radboud University</em><br>
     ai &#8226; cybersec<br>
-    <br>
-    <em>contact me:</em><br>
-    firstname [dot] lastname [at] ru [dot] nl
   </samp>
 </div>
 
